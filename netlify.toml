@@ -1,0 +1,8 @@
+[build]
+  command = ""
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "/toppers-erp-6-5-7.html"
+  status = 200
